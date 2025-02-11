@@ -2,7 +2,7 @@
 
 A lightweight **web-based** application to visualize **3D Point Cloud Data** and **GIS Maps** using an interactive interface. This project supports **PCD, XYZ, and GeoJSON** file formats, with features like **altitude-based color filtering, time-series animation, and metadata display.**
 
-![Voyis 3D Viewer](assets/vozis-logo.png)
+![Voyis 3D Viewer](assets/voyis-logo.png)
 
 ---
 
@@ -22,8 +22,8 @@ A lightweight **web-based** application to visualize **3D Point Cloud Data** and
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/voyis-3d-viewer.git
-cd voyis-3d-viewer
+git clone https://github.com/fadiemman/Voyis-Software-Development-Project.git
+cd Voyis-Software-Development-Project
 ```
 
 ### **2️⃣ Install Dependencies**
