@@ -59,13 +59,13 @@ npm run dev
 
 ## 📸 Screenshots
 ### **Main Interface**
-![Main UI](assets/screenshot2.png)
+![Main UI](assets/main-interface.jpg)
 
 ### **3D Point Cloud Viewer**
-![3D Viewer](assets/screenshot3.png)
+![3D Viewer](assets/3D-point-cloud.jpg)
 
 ### **GIS Map with Metadata**
-![GIS Map](assets/screenshot4.png)
+![GIS Map](assets/gis-map.jpg)
 
 ---
 
