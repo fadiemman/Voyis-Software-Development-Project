@@ -2,7 +2,7 @@
 
 A lightweight **web-based** application to visualize **3D Point Cloud Data** and **GIS Maps** using an interactive interface. This project supports **PCD, XYZ, and GeoJSON** file formats, with features like **altitude-based color filtering, time-series animation, and metadata display.**
 
-![Voyis 3D Viewer](assets/voyis-logo.png)
+![Voyis 3D Viewer](src/assets/voyis-logo.png)
 
 ---
 
@@ -59,13 +59,13 @@ npm run dev
 
 ## 📸 Screenshots
 ### **Main Interface**
-![Main UI](assets/main-interface.jpg)
+![Main UI](src/assets/main-interface.jpg)
 
 ### **3D Point Cloud Viewer**
-![3D Viewer](assets/3D-point-cloud.jpg)
+![3D Viewer](src/assets/3D-point-cloud.jpg)
 
 ### **GIS Map with Metadata**
-![GIS Map](assets/gis-map.jpg)
+![GIS Map](src/assets/gis-map.jpg)
 
 ---
 
