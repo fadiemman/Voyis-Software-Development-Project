@@ -2,7 +2,7 @@
 
 A lightweight **web-based** application to visualize **3D Point Cloud Data** and **GIS Maps** using an interactive interface. This project supports **PCD, XYZ, and GeoJSON** file formats, with features like **altitude-based color filtering, time-series animation, and metadata display.**
 
-![Voyis 3D Viewer](assets/screenshot1.png)
+![Voyis 3D Viewer](assets/vozis-logo.png)
 
 ---
 
